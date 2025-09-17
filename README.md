@@ -1,2 +1,2 @@
 # rsvp-app
-a backend service for my RSVP app
+start of my RSVP app for custom wedding invitation
